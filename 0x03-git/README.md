@@ -1,1 +1,1 @@
-Message in this folder
+Adding text for task 4 in the git project
